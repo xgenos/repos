@@ -1,5 +1,3 @@
 # in search of repos?
 
-unfortunately i feel storing my project's in github is cringe therefore i hosted my own git server and i store my  projects there
-
-here is the link of [repository's](https://git.surgot.in/)
+i use github to mirror my projects for backup, so you won’t find anything here. everything is in [https://git.surgot.in](https://git.surgot.in/)
